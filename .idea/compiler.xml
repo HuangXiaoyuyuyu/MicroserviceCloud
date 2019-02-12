@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="microservicecloud-api" />
         <module name="microservicecloud-consumer-dept-80" />
+        <module name="microservicecloud-eureka-7001" />
         <module name="microservicecloud-provider-dept-8001" />
       </profile>
     </annotationProcessing>
@@ -15,6 +16,7 @@
       <module name="MicroserviceCloud" target="1.8" />
       <module name="microservicecloud-api" target="1.8" />
       <module name="microservicecloud-consumer-dept-80" target="1.8" />
+      <module name="microservicecloud-eureka-7001" target="1.8" />
       <module name="microservicecloud-provider-dept-8001" target="1.8" />
     </bytecodeTargetLevel>
   </component>

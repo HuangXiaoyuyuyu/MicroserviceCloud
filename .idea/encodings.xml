@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-consumer-dept-80" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud-provider-dept-8001" charset="UTF-8" />
   </component>
 </project>

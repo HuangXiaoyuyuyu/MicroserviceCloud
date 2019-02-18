@@ -33,7 +33,7 @@ public class DeptController_Consumer {
     }
 
     @RequestMapping(value = "/consumer/dept/add")
-    public Object add(Dept dept) {
+    public Object add(Dept dept){
         return this.service.add(dept);
     }
 }
